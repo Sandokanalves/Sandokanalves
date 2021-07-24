@@ -4,12 +4,10 @@ ___________________________________________
 - :blue_heart: Amo minha familia, filmes, viajar
 - 💻: Apaixonado por tecnologia
 
-- ✏️: Tenho conhecimentos em : HTML, CSS ,GIT E GITHUB
-- :computer: Estou aprendendo :  Java, Programação Orietada a Objetos
 
 - 👨‍🎓 : FORMAÇÃO SUPERIOR EM MARKETING - UNIFG
 -  🧑‍🎓 : CURSANDO SUPERIOR ANALISE DESENVOLVIMENTO DE SISTEMAS - ESTÁCIO
-
+ -  🧑‍🎓 : Aluno da Digital Innovation One
 
 ## &#x1f4c8; GitHub Stats
 
